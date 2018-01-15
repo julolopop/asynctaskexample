@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsynctaskExample</string>
+    <string name="ordenar">Short</string>
+    <string name="cancel">Cancelar</string>
+</resources>
